@@ -1,1 +1,3 @@
-# geekcoraz.github.io
+# geekcoreaz.github.io
+
+Now resolves to <https://github.geekcore.org/>
